@@ -91,12 +91,10 @@ void loop()
  
 Output:
 Before Simulation:
-![5 1](https://github.com/ArunJ03/Exp-5-Servometer/assets/131673036/410c2561-299f-45d2-9763-6ae92d5c4446)
-
+![image](https://github.com/Balaramansethu/Exp-05-servometer/assets/96691241/5d82f0f5-d2ee-472a-9ab6-7e8f574503a1)
 
 After Simulation:
-![5 2](https://github.com/ArunJ03/Exp-5-Servometer/assets/131673036/baa0cef8-32eb-4c60-a50b-dcc499d03b6f)
-
+![image](https://github.com/Balaramansethu/Exp-05-servometer/assets/96691241/1e37a013-31d8-4dcc-8bbc-e6390107e7ae)
 
 
 ### RESULTS: 
